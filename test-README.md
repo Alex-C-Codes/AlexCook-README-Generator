@@ -1,3 +1,0 @@
-# AlexCook-README-Generator
-
-## Description
