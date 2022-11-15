@@ -26,6 +26,10 @@ to use the project, type "node index.js." Then the prompts will appear
 
 [![License:MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+## Video Demo
+
+https://drive.google.com/file/d/1KzhyCDHlWtXYf3F0G_xM6IS9zlLKCrbz/view
+
 ## Contributing
 
 use the link here for contribution parameters: https://www.contributor-covenant.org/
